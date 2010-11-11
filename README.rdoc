@@ -1,0 +1,16 @@
+= flinc utils
+
+A collection of (more or less) useful utilities used at flinc.
+
+== mensa.rb
+
+Displays today's menu at Mensa Dieburg.
+
+=== Install
+
+  sudo gem install nokogiri
+  chmod +x mensa.rb
+
+=== Usage
+
+  ./mensa.rb
