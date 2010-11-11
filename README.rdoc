@@ -8,6 +8,8 @@ Displays today's menu at Mensa Dieburg.
 
 === Install
 
+A C compiler is required to install nokogiri. On Mac OS X just install XCode.
+
   sudo gem install nokogiri
   chmod +x mensa.rb
 
